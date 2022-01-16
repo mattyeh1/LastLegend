@@ -1,0 +1,596 @@
+﻿<html class="js sizes customelements history pointerevents postmessage webgl websockets cssanimations csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox picture srcset webworkers sizes customelements history pointerevents postmessage webgl websockets cssanimations csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox picture srcset webworkers sizes customelements history pointerevents postmessage webgl websockets cssanimations csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox picture srcset webworkers" lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Last Legend - Main Page</title>
+    <link rel="icon" type="image/x-icon" href="/assets/img/favico.png">
+    <meta name="description" content="Thank you very much for the 1,900 downloads ❤">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:image" content="https://media.discordapp.net/attachments/901832254320410654/902555908888997898/41d92d5fbb1b094a80dccaba1220e885.png">
+    <link rel="shortcut icon" href="assets/img/last legend.png" type="image/png">
+    <meta content="summary_large_image" name="twitter:card">
+    <meta content="https://media.discordapp.net/attachments/901832254320410654/902555908888997898/41d92d5fbb1b094a80dccaba1220e885.png" property="twitter:image">
+    <meta content="@usd#5790" property="twitter:creator">
+    <meta content="https://lastlegend.club" name="twitter:url">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Metal+Mania&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="assets\css\vendor\bootstrap.min-1.css">
+    <link rel="stylesheet" href="assets\css\slick-1.css">
+    <link rel="stylesheet" href="assets\css\icofont.min-1.css">
+    <link rel="stylesheet" href="assets\css\animate-1.css">
+    <link rel="stylesheet" href="assets\css\nice-select-1.css">
+    <link rel="stylesheet" href="assets\css\magnific-popup-1.css">
+    <link rel="stylesheet" href="assets\css\style-1.css">
+</head>
+
+<body class="body__bg" data-bgimg="assets/img/bg/body-bg2.webp" style="background-image: url(&quot;assets/img/bg/body-bg2.webp&quot;);">
+   
+  
+     <!--offcanvas menu area start-->
+     <div class="body_overlay">
+                
+    </div>
+    <div class="offcanvas_menu">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="offcanvas_menu_wrapper">
+                        <div class="canvas_close">
+                            <a href="javascript:void(0)"><i class="icofont-close"></i></a>  
+                        </div>
+                        <div id="menu" class="text-left ">
+                            <ul class="offcanvas_main_menu">
+                                <li class="menu-item-has-children active">
+                                    <a href="index-1.html">Home</a>
+                                </li>
+                                <li class="menu-item-has-children active">
+                                    <a href="index-1.html#reviews">Reviews</a>
+                                </li>
+                                <li class="menu-item-has-children active">
+                                    <a href="index-1.html#download">Download</a>
+                                </li>
+                                <li class="menu-item-has-children active">
+                                    <a href="index-1.html#footer">Contact Us</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--offcanvas menu area end-->
+
+    <!--header area start-->
+    <header class="header_section header_transparent sticky-header sticky">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="main_header d-flex justify-content-between align-items-center">
+                        <div class="header_logo">
+                            <h3 class="sticky_none" href="index-1.html"><img src="https://media.discordapp.net/attachments/901832254320410654/902601889315708998/MG-logo-C8D5AAF597-seeklogo_1.png"></h3>
+                        </div>
+                        <!--main menu start-->
+                        <div class="main_menu d-none d-lg-block"> 
+                            <nav>  
+                                <ul class="d-flex">
+                                    <li><a href="index-1.html">Home</a></li> 
+                                    <li><a href="index-1.html#reviews">Reviews</a></li> 
+                                    <li><a href="index-1.html#download">Download</a></li> 
+                                    <li><a href="index-1.html#footer">Infos</a></li>
+                                    <li><a href="https://discord.gg/lastlegend">Discord</a></li>
+                                </ul>  
+                            </nav>
+                        </div>
+                        <!--main menu end-->
+                        <div class="header_right_sidebar d-flex align-items-center">
+                            <div class="sing_up_btn">
+                                <a class="btn btn-link" href="index-1.html#download">PLAY NOW <img src="assets\img\icon\arrrow-icon2-1.webp" alt=""> </a>
+                            </div>
+                            <div class="canvas_open">
+                                <a href="javascript:void(0)"><i class="icofont-navigation-menu"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!--header area end-->
+
+    <!-- breadcrumbs area start -->
+    <div class="breadcrumbs_aree breadcrumbs_bg mb-140"style="background-image: url(&quot;assets/img/others/breadcrumbs-bg.webp&quot;);">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="breadcrumbs_text text-center">
+                        <h1>Last Legend</h1>
+                        <ul class="d-flex justify-content-center">
+                            <li><p>An immersive adventure game, now available in beta.</p></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- breadcrumbs area end -->
+    
+    <!-- page wrapper start -->
+    <div class="page_wrapper">
+        <!-- counterup section start -->
+        <section class="counterup_section mb-130">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="counterup_inner d-flex justify-content-center">
+                            <div class="single_counterup one">
+                                <div class="counterup_text">
+                                    <h2 class="counter">4,212</h2>
+                                    <span>DOWNLOADS</span>
+                                </div>
+                            </div>
+                            <div class="single_counterup three">
+                                <div class="counterup_text">
+                                    <h2 class="counter color4">14,34500</h2>
+                                    <span>COINS SPENT</span>
+                                </div>
+                            </div>
+                            <div class="single_counterup two">
+                                <div class="counterup_text">
+                                    <h2 class="counter color3">300</h2>
+                                    <span>PLAYERS ONLINE</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- counterup section end -->
+        <!--game details section area start-->
+        <section class="game_details_section mb-125">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="game_details_inner">
+                            <div class="game_details_content top">
+                                <h3 class="game_details_title">Welcome to Last Legend</h3>
+                                <div class="game_details_desc">
+                                    <p>Come and join in the epic action RPG card game, Last Legend! Set out your journey to the dying alien world of death and mutant virus, collect and train heroes, gather teammates, control the battle with your fingertips. Use your divine weapon, eliminate all fallen creatures! The world is controlled by 5 great forces, which side will you choose?
+                                    </p>
+                                    <br><h3>Features (beta):</h3>
+                                        <p>
+                                        - A rank system to have rewards and be in the top of the world! <br>
+                                        
+                                        - Daily missions with rewards every day! <br>
+                                        
+                                        - Several characters with different levels, different items and different skills! <br>
+                                        
+                                        - Receive messages and gifts in real time from your friends! <br>
+                                        
+                                        +15 world and level available for beta, test the game now! <br>
+                                        
+                                        And more in the future !<br></p>
+                                    
+                                </div>
+                            </div>
+                            
+                        
+
+                            <div class="game_details_content bottom">
+                                
+                                
+                                <div class="game_details_content_step">
+                                    <div class="gam_additional_information">
+                                        <h3 class="additional_information_title">System requirements</h3>
+                                    <div class="additional_information_text">
+                                        <b>Minimum System Requirements:</b><p>
+                                            <span>Operating System Windows  </span>      7/8/8.1/10 x86 / x64<br>
+                                            <span>Processor </span>      Intel Core 2 Duo T9900 / Intel Core 2 Duo SP9400<br>
+                                            <span>Memory    </span>     4 GB RAM<br>
+                                            <span>Graphics  </span>       Video card must be 256 MB or more<br>
+                                            <span>Storage   </span>        80 MB<br></p>   
+                                    </div><br>
+                                    <div id="download" class="additional_information_text">
+                                        <b>Recommended System Requirements:</b><p>
+                                            <span>Operating System Windows  </span>       7/8/8.1/10 x86 / x64<br>
+                                            <span>Processor </span>      Intel® Core™ 2 Duo E6600 / AMD Phenom™ X3 8750 processor or better<br>
+                                            <span>Memory    </span>     6 GB RAM<br>
+                                            <span>Graphics  </span>       Video card must be 1 GB or more and should be a DirectX 9-compatible with support for Pixel Shader 3.0<br>
+                                            <span>Storage   </span>        500 MB<br></p>   
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+        <!-- gaming video section start -->
+        <section class="gaming_video_section mb-118 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1.1s" style="visibility: visible; animation-duration: 1.1s; animation-delay: 0.1s; animation-name: fadeInUp;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="gaming_video_inner slick_navigation slick__activation slick-initialized slick-slider" data-slick="{
+                            &quot;slidesToShow&quot;: 1,
+                            &quot;slidesToScroll&quot;: 1,
+                            &quot;arrows&quot;: true,
+                            &quot;dots&quot;: false,
+                            &quot;autoplay&quot;: false,
+                            &quot;speed&quot;: 300,
+                            &quot;infinite&quot;: true ,  
+                            &quot;responsive&quot;:[ 
+                            {&quot;breakpoint&quot;:500, &quot;settings&quot;: { &quot;slidesToShow&quot;: 1 } }  
+                            ]                                                     
+                        }"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1128px; transform: translate3d(0px, 0px, 0px);"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 1128px;"><div><div class="gaming_video_thumb" style="width: 100%; display: inline-block;">
+                                </div>
+                            </div></div></div></div></div></div>
+                </div>
+            </div>
+        </div></section>
+        <!-- gaming video section end -->
+
+        <ul class="d-flex justify-content-center">
+            <div class="start_now_btn">
+                <a class="btn btn-link" href="assets\download\LastLegend_1.0.rar">DOWNLOAD <img src="assets\img\icon\arrrow-icon-1.webp" alt=""> </a>
+            </div>
+        </ul>     
+                            
+                            </div>
+                            <div class="gam_additional_information">
+                                <h3 class="additional_information_title">Latest Releases:</h3>
+                                <div class="gam_additional_inner d-flex ">
+                                    <div class="additional_information_text">
+                                        <h4>Date:</h4>
+                                        <span>November 22, 2021</span><br>
+                                        <span>November 18, 2021</span><br>
+                                        <span>October 6, 2021</span><br>
+                                        <span>September 12, 2021</span><br>
+                                        <span>Agust 10, 2021</span><br>
+                                        <span>July 22, 2021</span><br>
+                                        <span>June 26, 2021</span><br>
+                                        <span>May 16, 2021</span><br>
+                                    </div>
+                                    <div class="additional_information_text">
+                                        <h4>Name</h4>
+                                        <span>Last Legend 22</span><br>
+                                        <span>Last Legend 18</span><br>
+                                        <span>Last Legend 6</span><br>
+                                        <span>Last Legend 12</span><br>
+                                        <span>Last Legend 10</span><br>
+                                        <span>Last Legend 22</span><br>
+                                        <span>Last Legend 26</span><br>
+                                        <span>Last Legend 16</span><br>
+                                    </div>
+                                    <div class="additional_information_text">
+                                        <h4>Size:</h4>
+                                        <span>Setup size: 55MB</span><br>
+                                        <span>Setup size: 50MB</span><br>
+                                        <span>Setup size: 46MB</span><br>
+                                        <span>Setup size: 44MB</span><br>
+                                        <span>Setup size: 42MB</span><br>
+                                        <span>Setup size: 37MB</span><br>
+                                        <span>Setup size: 30MB</span><br>
+                                        <span>Setup size: 24MB</span><br>
+                                    </div>
+                                    <div class="additional_information_text">
+                                        <h4>Installs:</h4>
+                                        <span>100+</span><br>
+                                        <span>550+</span><br>
+                                        <span>100+</span><br>
+                                        <span>50+</span><br>
+                                        <span>11+</span><br>
+                                        <span>112+</span><br>
+                                        <span>119+</span><br>
+                                        <span>1,000+</span><br>
+                                    </div>
+                                    <div class="additional_information_text">
+                                        <h4>ChangeLog:</h4>
+                                        <span>* Bug fixes and improvements</span><br>
+                                        <span>* Low FPS fixeds and Low Rate Limit <d/span><br>
+                                        <span>* Fixed some bugs that caused the game to crash for some users</span><br>
+                                        <span>* Minior bug fixes</span><br>
+                                        <span>* Bug and stability fixes and game optimizations</span><br>
+                                        <span>* We regularly update LastLegend so that it works correctly for all our users.</span><br>
+                                        <span>* Implementation of new characters in our game and new missions that you are waiting to try.</span><br>
+                                        <span>* Beta test </span><br>
+                                        
+                                        <div class="additional_information_text">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="blog_comment_wrapper match_details_comment">
+                            <div class="comments_box">
+                                <div id="reviews" class="comments_title">
+                                    <h3>Reviews</h3>
+                                </div>
+                                <div class="comment_list d-flex">
+                                    <div class="comment_thumb">
+                                        <img src="assets\img\Chocola.png" alt="">
+                                    </div>
+                                    <div class="comment_content">
+                                        <a href="index-1.html#"> <img src="assets\img\others\dot-button-1.webp" alt=""> </a>
+                                        <h3>Chocola</h3>
+                                            <span>19 November, 2021</span>
+                                        <p>Very good game, I spent all my afternoon playing it and I'm not disappointed. The scenario, the graphics, the story... Everything is very coherent and good. When the game will become a success i could say that I was one of the first to play it haha </p>
+                                    </div>
+                                </div>
+                                <div class="comment_list d-flex">
+                                    <div class="comment_thumb">
+                                        <img src="assets\img\Larvey.png" alt="">
+                                    </div>
+                                    <div class="comment_content">
+                                        <a href="index-1.html#"> <img src="assets\img\others\dot-button-1.webp" alt=""> </a>
+                                        <h3>Twopak</h3>
+                                            <span>11 November, 2021</span>
+                                        <p>Hm, I find the game bugging a lot with my pc I find that weird. It's really boring when you play a game that buggy too much fix it.</p>
+                                    </div>
+                                </div>
+                                <div class="comment_list d-flex">
+                                    <div class="comment_thumb">
+                                        <img src="assets\img\Slizy.png" alt="">
+                                    </div>
+                                    <div class="comment_content">
+                                        <a href="index-1.html#"> <img src="assets\img\others\dot-button-1.webp" alt=""> </a>
+                                        <h3>Slizy</h3>
+                                            <span>13 October, 2021</span>
+                                        <p>I really like it, hope they will update it soon</p>
+                                    </div>
+                                </div>
+                                <div class="comment_list d-flex">
+                                    <div class="comment_thumb">
+                                        <img src="assets\img\Cesar.png" alt="">
+                                    </div>
+                                    <div class="comment_content">
+                                        <a href="index-1.html#"> <img src="assets\img\others\dot-button-1.webp" alt=""> </a>
+                                        <h3>Pingu</h3>
+                                            <span>12 October, 2021</span>
+                                        <p>I really like the game, but on the other hand I don't appreciate that the giants take time to attack their opponents, please correct that!</p>
+                                    </div>
+                                </div>
+                                <div class="comment_list d-flex">
+                                    <div class="comment_thumb">
+                                        <img src="assets\img\Mizu.png" alt="">
+                                    </div>
+                                    <div class="comment_content">
+                                        <a href="index-1.html#"> <img src="assets\img\others\dot-button-1.webp" alt=""> </a>
+                                        <h3>Mizu</h3>
+                                            <span>11 October, 2021</span>
+                                        <p>Great for a new game still in beta ;)</p>
+                                    </div>
+                                </div>
+                                <div class="comment_list d-flex">
+                                    <div class="comment_thumb">
+                                        <img src="assets\img\Shadow.png" alt="">
+                                    </div>
+                                    <div class="comment_content">
+                                        <a href="index-1.html#"> <img src="assets\img\others\dot-button-1.webp" alt=""> </a>
+                                        <h3>Shadow</h3>
+                                            <span>9 October, 2021</span>
+                                        <p>Can you add quests to do on the game? so that it does not become boring</p>
+                                    </div>
+                                </div>
+                                <div class="comment_list d-flex">
+                                    <div class="comment_thumb">
+                                        <img src="assets\img\Vane.png" alt="">
+                                    </div>
+                                    <div class="comment_content">
+                                        <a href="index-1.html#"> <img src="assets\img\others\dot-button-1.webp" alt=""> </a>
+                                        <h3>Vane</h3>
+                                            <span>8 October, 2021</span>
+                                        <p>Nothing to say I enjoy this game</p>
+                                    </div>
+                                </div>
+                                <div class="comment_list d-flex">
+                                    <div class="comment_thumb">
+                                        <img src="assets\img\Vega.png" alt="">
+                                    </div>
+                                    <div class="comment_content">
+                                        <a href="index-1.html#"> <img src="assets\img\others\dot-button-1.webp" alt=""> </a>
+                                        <h3>Vega</h3>
+                                            <span>6 October, 2021</span>
+                                        <p>The game is at a very good graphics quality for a beta that's cool indeed</p>
+                                    </div>
+                                </div>
+                                <div class="comment_list d-flex">
+                                    <div class="comment_thumb">
+                                        <img src="assets\img\Volvac.png" alt="">
+                                    </div>
+                                    <div class="comment_content">
+                                        <a href="index-1.html#"> <img src="assets\img\others\dot-button-1.webp" alt=""> </a>
+                                        <h3>Volvac</h3>
+                                            <span>5 October, 2021</span>
+                                        <p>The game is nice but I find the game to load a little too long</p>
+                                    </div>
+                                </div>
+                                <div class="comment_list d-flex">
+                                    <div class="comment_thumb">
+                                        <img src="assets\img\Salma.png" alt="">
+                                    </div>
+                                    <div class="comment_content">
+                                        <a href="index-1.html#"> <img src="assets\img\others\dot-button-1.webp" alt=""> </a>
+                                        <h3>Salma</h3>
+                                            <span>4 October, 2021</span>
+                                        <p>For my part I can not launch the game, why?</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="comments_form">
+                                <div class="comments_title">
+                                    <h3>Place your review</h3>
+                                    <p>Fields marked with * are required</p>
+                                </div>
+                                <div class="comments_form_inner">
+                                    <form action="index.html#">
+                                        <div class="row">
+                                            <div class="col-lg-6 col-md-6">
+                                                <div class="comments_form_input">
+                                                    <input placeholder="Username *" type="text">
+                                                </div>
+                                            </div> 
+                                            <div class="col-lg-6 col-md-6">
+                                                <div class="comments_form_input">
+                                                    <input placeholder="Email * (Opcional)" type="text">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6">
+                                                <div class="comments_form_input">
+                                                    <input placeholder="Title" type="text">
+                                                </div>
+                                            </div>
+                                            <div class="col-12">
+                                                <div class="comments_form_input">
+                                                    <textarea placeholder="Description *"></textarea>
+                                                </div>
+                                            </div> 
+                                        </div>
+                                        <div class="comments_submit_btn text-center">
+                                            <p>After you've submitted your review it may take up to 48 hours for us to review it.</p>
+                                            <a class="btn btn-link" href="https://lastlegend.club">SUBMIT NOW <img src="assets\img\icon\arrrow-icon-1.webp" alt=""> </a>
+                                        </div>
+                                    </form> 
+                                </div>  
+                            </div>   
+                        </div> 
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--game details section area end-->
+
+        
+
+        <!-- gaming update section start -->
+        <section class="gaming_update_section">
+            <div class="container">
+                <div class="row">
+                    
+                    </div>
+                </div>
+            </section></div>
+        
+        <!-- gaming update section end -->
+
+    
+    <!-- page wrapper end -->
+
+    <!--footer area start-->
+    <footer id="footer" class="footer_widgets">
+        <div class="main_footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="main_footer_inner d-flex">
+                            <div class="footer_widget_list">
+                                <div class="footer_logo">
+                                    <h3 href="#">MG</h3>
+                                    <p>Last Legend INC</p>
+                                </div>
+                            </div>
+                            <div class="footer_widget_list contact">
+                                <h3>Contact</h3>
+                                <div class="footer_contact_info_list">
+                                    <span>Gmail:</span>
+                                    <p></p>support@lastlegend.club<br>
+                                    <span>Address:</span>
+                                    <p></p>4760 Bluff Street<br>
+                                    NORTH NORWICH<br>
+                                    New York
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div class="footer_widget_list">
+                                <h3>Most Active Players</h3>
+                                <div class="footer_winners_gallery">
+                                    <div class="footer_winners_list d-flex">
+                                        <div class="footer_winners_thumb">
+                                            <a href="index-1.html"><img src="assets\img\Active\Franky.png" alt=""></a>
+                                        </div>
+                                        <div class="footer_winners_thumb">
+                                            <a href="index-1.html"><img src="assets\img\Active\Lyxse.png" alt=""></a>
+                                        </div>
+                                        <div class="footer_winners_thumb">
+                                            <a href="index-1.html"><img src="assets\img\Active\Ronald.png" alt=""></a>
+                                        </div>
+                                        <div class="footer_winners_thumb">
+                                            <a href="index-1.html"><img src="assets\img\Active\SamP.png" alt=""></a>
+                                        </div>
+                                        <div class="footer_winners_thumb">
+                                            <a href="index-1.html"><img src="assets\img\Active\Skyler.png" alt=""></a>
+                                        </div>
+                                        <div class="footer_winners_thumb">
+                                            <a href="index-1.html"><img src="assets\img\Active\Slizy.png" alt=""></a>
+                                        </div>
+                                        <div class="footer_winners_thumb">
+                                            <a href="index-1.html"><img src="assets\img\Active\Weak.png" alt=""></a>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            <div class="footer_widget_list footer_list_menu">
+                                <h3>Links</h3>
+                                <div class="footer_menu">
+                                    <ul>
+                                        <li><a href="index-1.html">Main Page</a></li>
+                                        <li><a href="index-1.html#reviews">Reviews</a></li>
+                                        <li><a href="index-1.html#download">Downloads</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div> 
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--footer area end-->
+
+   
+<!-- JS
+============================================ -->
+<!--modernizr min js here-->
+<script src="assets\js\vendor\modernizr-3.7.1.min-1.js"></script>
+
+<!-- Vendor JS -->
+<script src="assets\js\vendor\jquery-3.6.0.min-1.js"></script>
+<script src="assets\js\vendor\jquery-migrate-3.3.2.min-1.js"></script>
+<script src="assets\js\vendor\popper-1.js"></script>
+<script src="assets\js\vendor\bootstrap.min-1.js"></script>
+<script src="assets\js\slick.min-1.js"></script>
+<script src="assets\js\wow.min-1.js"></script>
+<script src="assets\js\jquery.nice-select-1.js"></script>
+<script src="assets\js\jquery.magnific-popup.min-1.js"></script>
+<script src="assets\js\jquery.counterup.min-1.js"></script>
+<script src="assets\js\jquery-waypoints-1.js"></script>
+<script src="assets\js\ajax-mail-1.js"></script>
+
+<!-- Counter JS -->
+<head>
+    <script>
+        jQuery(document).ready(function($) {
+            $('.counter').counterUp({
+                delay: 100,
+                time: 10000
+            });
+        });
+    </script>
+</head>
+<body>
+    <span class="counter">1,234,567</span>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+    <script src="jquery.counterup.min.js"></script>
+</body>
+<!-- Button JS -->
+<script src="assets\js\main-1.js"></script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="assets\js\sweetAlert.js"></script>
+
+
+
+
+
+
+</body></html>
